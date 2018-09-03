@@ -1,0 +1,15 @@
+/Build/
+/Configuration/
+/Data/
+/Packages/Framework/
+/Packages/Libraries/
+/Packages/Application/Flowpack.JobQueue.Common/
+/Packages/Application/Flowpack.JobQueue.Doctrine/
+/Web/
+/bin/
+/Readme.rst
+/Upgrading.rst
+/flow
+/flow.bat
+.editorconfig
+.idea

@@ -1,0 +1,18 @@
+{
+    "description": "",
+    "type": "neos-package",
+    "name": "demo/dummy",
+    "require": {
+        "neos/flow": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Demo\\Dummy\\": "Classes/"
+        }
+    },
+    "extra": {
+        "neos": {
+            "package-key": "Demo.Dummy"
+        }
+    }
+}
